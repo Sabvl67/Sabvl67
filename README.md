@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **AWS, Machine Learning and Database**
 
-- 👨‍💻 All of my projects are available at [anhvocs.notionlinker.com](https://www.notion.so/anhvocs/Hey-there-I-am-Anh-043cca93427342f5896f4ec7801fa184)
+- 👨‍💻 Check out my portfolio at [anhvocs.notionlinker.com](https://www.notion.so/anhvocs/Hey-there-I-am-Anh-043cca93427342f5896f4ec7801fa184)
 
 - 📫 How to reach me **anh.vo@uleth.ca**
 
