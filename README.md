@@ -1,5 +1,5 @@
 ![MasterHead](https://i.pinimg.com/originals/49/49/53/494953eaa00fd962a428ae308c14c3a5.jpg)
-<h1 align="center">Chao ,I'm Anh Vo</h1>
+<h1 align="center">Chao, I'm Anh Vo</h1>
 <h3 align="center">I like to code things that has lasting positive impact</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3AQDvhSiPpMAAAAM/dog-hacker.gif">
 
