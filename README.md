@@ -5,7 +5,7 @@
 <h3 align="center">I like to code things that has lasting positive impact</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3AQDvhSiPpMAAAAM/dog-hacker.gif">
 
-- 🔭 I’m currently working on [Family Bloom](https://github.com/Sabvl67/FamilyBloom)
+- 🔭 I’m currently working on [Refactor PlatePal](https://github.com/Sabvl67/PlatePal)
 
 - 🌱 I’m currently learning **AWS, Machine Learning and Database**
 
