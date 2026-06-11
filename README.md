@@ -5,13 +5,13 @@
 <h3 align="center">I like to code things that has lasting positive impact</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/3AQDvhSiPpMAAAAM/dog-hacker.gif">
 
-- 🔭 I’m currently working on [Refactor PlatePal](https://github.com/Sabvl67/PlatePal_V2)
+- 🔭 I’m currently working on [pipeline-quality-monitor](https://github.com/Sabvl67/pipeline-quality-monitor)
 
-- 🌱 I’m currently learning **AWS, Machine Learning and Database**
+- 🌱 I’m currently learning **Azure, SDE and Database**
 
 - 👨‍💻 Check out my portfolio at [anhvo.netlify.app](https://anhvo.netlify.app/)
 
-- 📫 How to reach me **anh.vo@uleth.ca**
+- 📫 How to reach me **cind.vo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
